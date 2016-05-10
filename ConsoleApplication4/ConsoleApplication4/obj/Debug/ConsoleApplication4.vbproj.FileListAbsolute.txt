@@ -1,1 +1,11 @@
 c:\users\vandyl\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.xml
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.Resources.resources
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.VisualComponent.resources
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.xml
+C:\Users\Vandyl\Desktop\VB-Form-Binary-Tree-master\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
